@@ -11,11 +11,11 @@ Decryption
 
 Once the two files mentioned above is in place, simply run `make run`:
 
-<code>
+<pre>
 %> make run
 username: weblogic
 password: z20059864y
-</code>
+</pre>
 
 There you go!
 
