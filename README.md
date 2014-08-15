@@ -23,5 +23,5 @@ There you go!
 Notes from Author
 -----------------
 
-Tested against AES / 3DES algorithm, works. The jars in this repository is copied from latest weblogic distributions (version string `wls12130`)
+Tested against AES / 3DES algorithm, works. The jars in this repository are copied from latest weblogic distribution (version string `wls12130`)
 
