@@ -19,3 +19,9 @@ password: z20059864y
 
 There you go!
 
+
+Notes from Author
+-----------------
+
+Tested against AES / 3DES algorithm, works. The jars in this repository is copied from latest weblogic distributions (version string `wls12130`)
+
