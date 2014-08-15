@@ -8,7 +8,7 @@ Cross-domain decryption will not work.
 
 Decryption
 ----------
-<pre>
+<code>
 %> make run
-</pre>
+</code>
 
